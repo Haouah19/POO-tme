@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+AAA AAA BBB BBB AAA AAA CCCC BBB BBB AAA AAA BBB BBB CCCCCC
+=======
+AAA AAA BBB BBB AAA AAA BBB BBB AAA AAA BBB BBB BBB BBB BBB
+>>>>>>> branch 'master' of https://stl.algo-prog.info/3774394/multiset.git
